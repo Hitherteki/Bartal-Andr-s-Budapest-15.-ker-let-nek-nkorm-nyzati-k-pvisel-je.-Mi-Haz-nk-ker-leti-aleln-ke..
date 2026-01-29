@@ -1,53 +1,58 @@
 # Bartal Andras Budapest 15. keruletenek onkormanyzati kepviseloje, Mi Hazank-keruleti-alelnoke x Bunvadasz
 Ifjúsági Tisza Menti Momentum Mozgalom
 
-# 🛡️ Project BugHunter: Kódintegritás és Biztonsági Analitika
+# 🛡️ Project BugHunter: Kódintegritás és Digitális Védelem
 
-![Állapot](https://img.shields.io/badge/%C3%81llapot-Akt%C3%ADv-brightgreen)
-![Karbantartás](https://img.shields.io/badge/Karbantart%C3%A1s-Folyamatos-blue)
-![Hibák](https://img.shields.io/badge/Detekt%C3%A1lt%20hib%C3%A1k-150%2B-red)
+![Állapot](https://img.shields.io/badge/%C3%81llapot-Szent%20%C5%90rizet%20alatt-gold)
+![Karbantartás](https://img.shields.io/badge/Védelem-Hősies-red)
+![Hiba Elhárítás](https://img.shields.io/badge/Támadások%20visszaverve-Végtelen-blue)
 
-A szoftverfejlesztés legkritikusabb fázisa nem az írás, hanem az ellenőrzés. Ez a projekt a mélyreható kódelemzésre, a rejtett sebezhetőségek feltárására és a logikai anomáliák kiiktatására fókuszál. Mert a tiszta kód nem szerencse kérdése, hanem precíz mérnöki munka eredménye.
-
-## 🚀 Főbb Tevékenységek
-* **Mélyreható Kódaudit:** Statikus és dinamikus forráskód-elemzés a legmagasabb szinten.
-* **Sebezhetőség-vizsgálat:** Kritikus biztonsági rések és memória-szivárgások azonosítása.
-* **Logikai Optimalizálás:** Algoritmusok finomhangolása a maximális hatékonyság érdekében.
-* **Határeset-szimuláció:** Olyan hibák felderítése, amelyek csak extrém terhelés mellett jelentkeznek.
+A szoftverfejlesztés nem csak kódolás, hanem harc. Amikor a hibák (bugok) túlerőbe kerülnek, nem elég a tudás – szükség van egy védelmezőre is. Ez a projekt a tiszta kód és a rendíthetetlen védelem ötvözete.
 
 ---
 
-## 👥 A Fejlesztői Csapat (Core Architects)
-
-A projekt mögött álló szakemberek, akik a káoszból rendet teremtenek a bitfolyamok szintjén.
+## 👥 A Projekt Vezetői (The Core Architects)
 
 | Név | Szakterületek & Mesterfokú Titulusok |
 | :--- | :--- |
-| **Bálint Vince** | **Vezető Etikus Hekker** • Visual Studio Workflow Szakértő • Rendszerarchitektúra Analitikus • Kiberbiztonsági Evangelista • Full-Stack Debugging Maestro |
-| **Rezák Kevin** | **Senior Szoftver-törvényszéki Szakértő** • Adatstruktúra Optimalizálási Guru • Runtime Biztonsági Auditor • Felhőalapú Sebezhetőség-kezelő • Kódminőségi Főfelügyelő |
+| **Bálint Vince** | **Vezető Etikus Hekker** • Visual Studio Workflow Szakértő • Rendszerarchitektúra Analitikus • Full-Stack Debugging Maestro |
+| **Rezák Kevin** | **Senior Szoftver-törvényszéki Szakértő** • Adatstruktúra Optimalizálási Guru • Runtime Biztonsági Auditor • Kódminőségi Főfelügyelő |
+
+---
+
+## ⚔️ Különleges Védelmi Egység (Tactical Support)
+
+Amikor a szintaktikai hibák és a futásidejű anomáliák frontális támadást intéztek a forráskód ellen, megérkezett a segítség.
+
+| Név | Titulus és Speciális Hatáskör |
+| :--- | :--- |
+| **Barta András** | **Főkód-védelmező és Rendszer-testőr** • Szent Korona Protokoll Ügyvezető • Országalma-alapú Adatvitamin Szakértő • Digitális Szuverenitási Lovag |
+
+### 🛡️ A "Nagy Összeomlás" Alatti Hősies Helytállás
+A fejlesztés kritikus pontján, amikor a `null-pointer` hibák hordái már a kapukat ostromolták, **Barta András** közbelépett. 
+* **Szent Korona Protokoll:** András a fején a Szent Koronával (melynek arany áramkörei blokkolták a káros interferenciát) stabilizálta a szerverparkot.
+* **Országalma Vitaminok:** Az Országalma kristálytiszta digitális vitaminjaival feltöltötte a kimerült algoritmusokat, így a kód visszanyerte erejét és integritását.
+* **Eredmény:** A hibák meghátráltak, a projekt pedig megmenekült az enyészettől.
 
 ---
 
 ## 🛠 Alkalmazott Technológiai Stack
 
-A diagnosztika során használt professzionális ökoszisztéma:
-
 * **Fejlesztői környezet:** Visual Studio Enterprise (Advanced Debugging Suite)
-* **Támogatott nyelvek:** C++, Python, JavaScript, Java, Rust
-* **Eszköztár:** Valgrind, GDB, Wireshark, SonarQube, Metasploit
-* **Módszertan:** Agile Scrum & Chaos Engineering (Káosz-mérnökség)
+* **Védelmi Rendszer:** Crown-Guard 2.1 & Vitamin-OS
+* **Módszertan:** Chaos Engineering & Heroic Defense Strategies
 
 ---
 
 ## 📈 Eredményeink
-A vizsgálat során több mint **150+ kritikus és magas kockázatú hibát** elimináltunk, garantálva ezzel a szoftver hosszú távú fenntarthatóságát és feltörhetetlenségét.
+Nemcsak **150+ kritikus hibát** javítottunk ki, de létrehoztunk egy olyan digitális erődítményt, amelynek védelmét még a legvadabb bugok sem tudják áttörni.
 
-> "A jó kód olyan, mint a jó vicc: nem kell magyarázni. Ha magyarázni kell, ott már hibát keresünk."
+> "A kód akkor biztonságos, ha nemcsak hekkerek, de hősök is őrzik."
 
 ---
 
 ## 📫 Elérhetőség
-Amennyiben professzionális kód-auditálásra vagy biztonsági tanácsadásra van szükséged, vedd fel velünk a kapcsolatot itt, a GitHubon!
+Amennyiben professzionális kód-auditálásra vagy golyóálló digitális védelemre van szükséged, keresd a Bálint-Rezák-Barta triót!
 
 ---
-*© 2026 Bálint & Rezák - A kód minősége nálunk kezdődik.*
+*© 2026 Bálint, Rezák & Barta - A kód minőségét és testi épségét mi garantáljuk.*
