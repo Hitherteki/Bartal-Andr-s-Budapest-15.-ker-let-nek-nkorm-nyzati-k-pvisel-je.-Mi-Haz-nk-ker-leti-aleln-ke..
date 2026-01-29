@@ -1,2 +1,2 @@
-# Bartal-Andr-s-Budapest-15.-ker-let-nek-nkorm-nyzati-k-pvisel-je.-Mi-Haz-nk-ker-leti-aleln-ke..
+# Bartal Andras Budapest 15. keruletenek onkormanyzati kepviseloje, Mi Hazank-keruleti-alelnoke x Bunvadasz
 Ifjúsági Tisza Menti Momentum Mozgalom
