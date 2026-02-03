@@ -1,58 +1,55 @@
-# Bartal Andras Budapest 15. keruletenek onkormanyzati kepviseloje, Mi Hazank-keruleti-alelnoke x Bunvadasz
-Ifjúsági Tisza Menti Momentum Mozgalom
+# 🛡️ Project BugHunter
+### *Kódintegritás és Digitális Erődítmény*
 
-# 🛡️ Project BugHunter: Kódintegritás és Digitális Védelem
+![Status](https://img.shields.io/badge/Status-Protected-gold?style=for-the-badge&logo=shield)
+![Defense](https://img.shields.io/badge/Defense-Heroic-red?style=for-the-badge&logo=fortinet)
+![Bugs](https://img.shields.io/badge/Bugs_Deflected-Infinite-blue?style=for-the-badge&logo=bugcrowd)
 
-![Állapot](https://img.shields.io/badge/%C3%81llapot-Szent%20%C5%90rizet%20alatt-gold)
-![Karbantartás](https://img.shields.io/badge/Védelem-Hősies-red)
-![Hiba Elhárítás](https://img.shields.io/badge/Támadások%20visszaverve-Végtelen-blue)
-
-A szoftverfejlesztés nem csak kódolás, hanem harc. Amikor a hibák (bugok) túlerőbe kerülnek, nem elég a tudás – szükség van egy védelmezőre is. Ez a projekt a tiszta kód és a rendíthetetlen védelem ötvözete.
+> "A szoftverfejlesztés nem csak kódolás, hanem harc. Amikor a hibák (bugok) túlerőbe kerülnek, nem elég a tudás – szükség van egy védelmezőre is."
 
 ---
 
-## 👥 A Projekt Vezetői (The Core Architects)
+## 👥 A Projekt Vezetői | The Core Architects
 
-| Név | Szakterületek & Mesterfokú Titulusok |
+A projekt mögött álló stratégiai elme és technikai fegyelem biztosítja, hogy egyetlen bit se maradjon védtelenül.
+
+| Architekt | Specializáció & Titulus |
 | :--- | :--- |
-| **Bálint Vince** | **Vezető Etikus Hekker** • Visual Studio Workflow Szakértő • Rendszerarchitektúra Analitikus • Full-Stack Debugging Maestro |
-| **Rezák Kevin** | **Senior Szoftver-törvényszéki Szakértő** • Adatstruktúra Optimalizálási Guru • Runtime Biztonsági Auditor • Kódminőségi Főfelügyelő |
+| **Bálint Vince** | **Vezető Etikus Hekker** <br> 🛡️ Visual Studio Workflow Szakértő <br> 🔍 Rendszerarchitektúra Analitikus <br> 🎹 Full-Stack Debugging Maestro |
+| **Rezák Kevin** | **Senior Szoftver-törvényszéki Szakértő** <br> ⚡ Adatstruktúra Optimalizálási Guru <br> 🔐 Runtime Biztonsági Auditor <br> ⚖️ Kódminőségi Főfelügyelő |
 
 ---
 
-## ⚔️ Különleges Védelmi Egység (Tactical Support)
+## 🛠️ Technológiai Arzenál
 
-Amikor a szintaktikai hibák és a futásidejű anomáliák frontális támadást intéztek a forráskód ellen, megérkezett a segítség.
+A védelem alapkövei, melyekkel a legmélyebb `null-pointer` hibákat is felszámoljuk:
 
-| Név | Titulus és Speciális Hatáskör |
-| :--- | :--- |
-| **Barta András** | **Főkód-védelmező és Rendszer-testőr** • Szent Korona Protokoll Ügyvezető • Országalma-alapú Adatvitamin Szakértő • Digitális Szuverenitási Lovag |
-
-### 🛡️ A "Nagy Összeomlás" Alatti Hősies Helytállás
-A fejlesztés kritikus pontján, amikor a `null-pointer` hibák hordái már a kapukat ostromolták, **Barta András** közbelépett. 
-* **Szent Korona Protokoll:** András a fején a Szent Koronával (melynek arany áramkörei blokkolták a káros interferenciát) stabilizálta a szerverparkot.
-* **Országalma Vitaminok:** Az Országalma kristálytiszta digitális vitaminjaival feltöltötte a kimerült algoritmusokat, így a kód visszanyerte erejét és integritását.
-* **Eredmény:** A hibák meghátráltak, a projekt pedig megmenekült az enyészettől.
+* **IDE:** `Visual Studio Enterprise` (Advanced Debugging Suite)
+* **Defense Core:** `BugShield Pro` & `SecureCode Engine`
+* **Methodology:** `Chaos Engineering` & `Heroic Defense Strategies`
+* **Protection:** Integrált kód-audit és futásidejű behatolás-megelőzés
 
 ---
 
-## 🛠 Alkalmazott Technológiai Stack
+## 📈 Hadijelentés (Eredmények)
 
-* **Fejlesztői környezet:** Visual Studio Enterprise (Advanced Debugging Suite)
-* **Védelmi Rendszer:** Crown-Guard 2.1 & Vitamin-OS
-* **Módszertan:** Chaos Engineering & Heroic Defense Strategies
+Nem csupán sorokat írunk, hanem digitális falakat emelünk. A projekt eddigi mérlege:
 
----
-
-## 📈 Eredményeink
-Nemcsak **150+ kritikus hibát** javítottunk ki, de létrehoztunk egy olyan digitális erődítményt, amelynek védelmét még a legvadabb bugok sem tudják áttörni.
-
-> "A kód akkor biztonságos, ha nemcsak hekkerek, de hősök is őrzik."
+- [x] **150+ Kritikus hiba** végleges felszámolása.
+- [x] **Zero-Day sebezhetőségek** preventív blokkolása.
+- [x] **Golyóálló kódstruktúra**, amely ellenáll a legvadabb futásidejű anomáliáknak is.
 
 ---
 
-## 📫 Elérhetőség
-Amennyiben professzionális kód-auditálásra vagy golyóálló digitális védelemre van szükséged, keresd a Bálint-Rezák-Barta triót!
+## 🛡️ Védelmi Protokoll
+Amikor a szintaktikai hibák frontális támadást intéznek a forráskód ellen, rendszerünk automatikusan aktiválja az integritás-megőrző funkciókat, így a fejlesztés kritikus pontjain is garantált a stabilitás.
+
+> **Mottónk:** A kód akkor biztonságos, ha nemcsak hekkerek, de hősök is őrzik.
 
 ---
-*© 2026 Bálint, Rezák & Barta - A kód minőségét és testi épségét mi garantáljuk.*
+
+## 📫 Kapcsolat
+Amennyiben professzionális kód-auditálásra vagy golyóálló digitális védelemre van szükséged, keresd a **Bálint–Rezák** duót!
+
+---
+*© 2026 Bálint & Rezák — A kód minőségét és testi épségét mi garantáljuk.*
